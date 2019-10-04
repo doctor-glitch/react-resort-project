@@ -177,6 +177,7 @@ h6 {
   display: flex;
   align-items: center;
   justify-content: center;
+  position: relative;
 }
 .roomsHero {
   background-image: url("./images/room-2.jpg");
