@@ -600,7 +600,24 @@ h6 {
   }
 }
 /* end of rooms fitler*/
+/* start footer */
 .footer{
   text-align: center;
   font-size: 10px;
+}
+#contacts{
+  text-align: center;
+}
+#contacts h1
+{
+  font-size: 10px;
+}
+#contacts img{
+  height: 30px;
+  width: 30px;
+  margin-left: 7px;
+  margin-right: 7px;
+}
+#contacts img:hover{
+  opacity: 0.8;
 }
